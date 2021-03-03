@@ -7,7 +7,7 @@
 [![twitter](https://img.shields.io/badge/-moshfiqrony-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/nikitababko)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikitababko)
 
-<p align="center"> 
+<p align="left"> 
   <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
 </p>
 
