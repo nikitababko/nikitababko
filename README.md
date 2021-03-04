@@ -40,7 +40,7 @@ const nikitababko = {
       I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
     </p>
   </div>
-  <p align="left"> 
+  <p align="right"> 
     <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
   </p>
 </div>
