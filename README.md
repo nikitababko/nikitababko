@@ -28,23 +28,10 @@ const nikitababko = {
 };
 ```
 
-<div style="display: flex">
-  <div style="width: 50%">
-    <p> 
-      I specialize in front-end development. I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
-    </p>
-    <p> 
-      I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
-    </p>
-    <p> 
-      I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
-    </p>
-  </div>
-  <p style="width: 50%" align="right"> 
-    <img align="right" alt="GIF" src="./code.gif" width="100%" height="320" />
-  </p>
-</div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<!-- <p align="center">
-    <img  alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitababko&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-</p> -->
+I specialize in front-end development. I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
+
+I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
+
+I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
