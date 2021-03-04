@@ -41,7 +41,7 @@ const nikitababko = {
     </p>
   </div>
   <p style="width: 50%" align="right"> 
-    <img align="center" alt="GIF" src="./code.gif" width="100%" height="320" />
+    <img align="right" alt="GIF" src="./code.gif" width="100%" height="320" />
   </p>
 </div>
 
