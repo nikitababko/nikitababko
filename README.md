@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm Nikita & I ❤️ code.
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://nikitababko.github.io/)
@@ -8,16 +8,16 @@
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikitababko)
 
 ```js
-const nikitababko = {
+const nikitaBabko = {
   code: ['Javascript', 'Typescript'],
-  askMeAbout: ['web dev'],
+  aboutMe: ['Web dev'],
   technologies: {
     mobileApp: ['React Native'],
     frontEnd: {
       js: ['React', 'Next', 'GraphQL'],
       css: ['Ant-design', 'Materialize', 'Bootstrap'],
     },
-    backEnd: ['Node', 'Express'],
+    backEnd: ['Node', 'PHP'],
     databases: ['Mongo', 'MySql'],
     bundlers: ['Webpack', 'Gulp'],
     test: ['Mocha + Chai', 'React Testing Library'],
