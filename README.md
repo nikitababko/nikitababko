@@ -18,7 +18,7 @@ const nikitababko = {
       css: ['Ant-design', 'Materialize', 'Bootstrap'],
     },
     backEnd: ['Node', 'Express'],
-    databases: ['Mongo', 'MySql'],
+    databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
     bundlers: ['Webpack', 'Gulp'],
     test: ['Mocha + Chai', 'React Testing Library'],
     devOps: ['Docker'],
