@@ -2,7 +2,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://nikitababko.github.io/)
-[![github](https://img.shields.io/badge/-@nikitababko-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/nikitababko)
 [![facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/nikita.babko)
 [![twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/nikitababko)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikitababko)
