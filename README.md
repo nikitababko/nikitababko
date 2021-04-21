@@ -8,7 +8,7 @@
 
 ```js
 const nikitababko = {
-  code: ['Javascript', 'Typescript'],
+  code: ['JavaScript', 'TypeScript'],
   askMeAbout: ['web dev'],
   technologies: {
     mobileApp: ['React Native'],
