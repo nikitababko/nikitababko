@@ -13,10 +13,10 @@ const nikitababko = {
   technologies: {
     mobileApp: ['React Native'],
     frontEnd: {
-      js: ['React', 'Next', 'GraphQL'],
+      js: ['React', 'Next', 'Apollo'],
       css: ['Ant-design', 'Materialize', 'Bootstrap'],
     },
-    backEnd: ['Node', 'Express'],
+    backEnd: ['Node', 'Express', 'GraphQL'],
     databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
     bundlers: ['Webpack', 'Gulp'],
     test: ['Mocha + Chai', 'React Testing Library'],
