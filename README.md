@@ -13,7 +13,7 @@ const nikitababko = {
   technologies: {
     mobileApp: ['React Native'],
     frontEnd: {
-      js: ['React', 'Next', 'Apollo'],
+      js_ts: ['React', 'Next', 'Apollo'],
       css: ['Ant-design', 'Materialize', 'Bootstrap'],
     },
     backEnd: ['Node', 'Express', 'GraphQL'],
