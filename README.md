@@ -14,7 +14,7 @@ const nikitababko = {
     mobileApp: ['React Native'],
     frontEnd: {
       js_ts: ['React', 'Next', 'Apollo'],
-      css: ['Ant-design', 'Materialize', 'Bootstrap'],
+      css: ['Ant-design', 'Bootstrap'],
     },
     backEnd: ['Node', 'Express', 'GraphQL'],
     dataBases: ['MongoDB', 'MySQL', 'PostgreSQL'],
@@ -32,7 +32,7 @@ const nikitababko = {
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-I specialize in front-end development. I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
+I specialize in front-end development. I have also full-stack development experience. I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
 
 I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
 
