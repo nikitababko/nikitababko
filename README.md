@@ -12,6 +12,10 @@
 
 <!-- <a href="https://stackoverflow.com/users/14344490/nikita-babko?tab=profile"><img src="https://stackoverflow.com/users/flair/14344490.png?theme=clean" width="208" height="58" alt="profile for Harun ERGUL at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Harun ERGUL at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitababko&layout=compact)](https://github.com/harunergul/harunergul) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitababko)](https://github.com/harunergul/harunergul) -->
+
 ```js
 const nikitababko = {
   code: ['JavaScript', 'TypeScript'],
