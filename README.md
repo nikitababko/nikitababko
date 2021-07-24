@@ -1,10 +1,16 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://nikitababko.github.io/)
-[![facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/nikita.babko)
+[![facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/nikitababko)
 [![twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/nikitababko)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikitababko)
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=nikitababko&rank=S,AAA&no-frame=true" />
+</div>
+
+<!-- <a href="https://stackoverflow.com/users/14344490/nikita-babko?tab=profile"><img src="https://stackoverflow.com/users/flair/14344490.png?theme=clean" width="208" height="58" alt="profile for Harun ERGUL at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Harun ERGUL at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
 ```js
 const nikitababko = {
