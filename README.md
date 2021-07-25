@@ -1,40 +1,35 @@
 <div style="margin-bottom: 20px" align="center">
   <h1 style="border-bottom: none; margin-bottom: 8px">
-  Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+    Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
   </h1>
-  <a href="https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko"><img src="https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko"></a>
 </div>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=40&center=true&vCenter=true&color=36BCF7FF&height=100&width=1000&lines=Hello+there+%E2%9C%8B;I'm+Nikita+%F0%9F%A4%93;Web+developer+%F0%9F%92%BB)](https://git.io/typing-svg) -->
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://nikitababko.github.io/)
-[![facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/nikitababko)
-[![twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/nikitababko)
-[![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikitababko) -->
+<div style="margin-bottom: 35px" align="center">
+  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=nikitababko&repo=github-visitors-badge&countColor=DodgerBlue" />
+</div>
 
 <p align="center">
-  <a href="https://nikitababko.github.io/"><img src="https://img.shields.io/badge/Website-46a2f1?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/nikitababko/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://dev.to/nikitababko"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
-  <a href="https://www.facebook.com/nikitababko"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href="https://twitter.com/nikitababko"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <!-- <a href="https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko"><img style="height: 29px" src="https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko"></a> -->
+  <a href="https://nikitababko.github.io/">
+    <img src="https://img.shields.io/badge/Website-46a2f1?style=for-the-badge&logo=Google-Chrome&logoColor=white">
+  </a> 
+  <a href="https://www.linkedin.com/in/nikitababko/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://dev.to/nikitababko">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  </a> 
+  <a href="https://www.facebook.com/nikitababko">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=instagram&logoColor=white">
+  </a> 
+  <a href="https://twitter.com/nikitababko">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+
 </p>
 
 <p align="center"> 
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitababko&theme=react" />
 </p>
-
-<!-- <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=nikitababko&rank=S,AAA&no-frame=true" />
-</div> -->
-
-<!-- <a href="https://stackoverflow.com/users/14344490/nikita-babko?tab=profile"><img src="https://stackoverflow.com/users/flair/14344490.png?theme=clean" width="208" height="58" alt="profile for Nikita Babko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nikita Babko at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitababko&layout=compact)](https://github.com/harunergul/harunergul) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitababko)](https://github.com/harunergul/harunergul) -->
 
 ```js
 const nikitababko = {
