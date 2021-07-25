@@ -5,6 +5,8 @@
   <a href="https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko"><img src="https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko"></a>
 </div>
 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=40&center=true&vCenter=true&color=36BCF7FF&height=100&width=1000&lines=Hello+there+%E2%9C%8B;I'm+Nikita+%F0%9F%A4%93;Web+developer+%F0%9F%92%BB)](https://git.io/typing-svg) -->
+
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://nikitababko.github.io/)
 [![facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/nikitababko)
@@ -20,7 +22,11 @@
   <!-- <a href="https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko"><img style="height: 29px" src="https://visitor-badge.glitch.me/badge?page_id=nikitababko.nikitababko"></a> -->
 </p>
 
-<!-- <div align="center">
+<p align="center"> 
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitababko&theme=react" />
+</p>
+
+<!-- <div>
   <img src="https://github-profile-trophy.vercel.app/?username=nikitababko&rank=S,AAA&no-frame=true" />
 </div> -->
 
