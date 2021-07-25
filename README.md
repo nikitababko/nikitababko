@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Website-46a2f1?style=for-the-badge&logo=Google-Chrome&logoColor=white">
   </a> 
   <a href="https://t.me/nikitababko">
-    <img src="https://img.shields.io/badge/Telegram-00669d?style=for-the-badge&logo=Telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white">
   </a> 
   <a href="https://www.linkedin.com/in/nikitababko">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
