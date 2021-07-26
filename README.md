@@ -33,6 +33,16 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitababko&theme=react" />
 </p>
 
+## 📕 Projects I've contributed to
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harryheman&repo=React-Total&theme=react&hide_border=true&show_icons=false" alt="github-readme-stats">
+  </a>
+</p>
+
 ```js
 const nikitababko = {
   code: ['JavaScript', 'TypeScript'],
@@ -40,14 +50,14 @@ const nikitababko = {
   technologies: {
     mobileApp: ['React Native'],
     frontEnd: {
-      js_ts: ['React', 'Next', 'Apollo'],
+      js_ts: ['React', 'Apollo'],
       css: ['Ant-design', 'Bootstrap'],
     },
     backEnd: ['Node', 'Express', 'GraphQL'],
-    dataBases: ['MongoDB', 'MySQL', 'PostgreSQL'],
+    dataBases: ['MongoDB'],
     bundlers: ['Webpack', 'Gulp'],
-    test: ['Mocha + Chai', 'React Testing Library'],
-    devOps: ['Docker'],
+    test: ['React Testing Library'],
+    devOps: [''],
     misc: ['Socket.IO', 'Immer.js'],
   },
   architecture: [
