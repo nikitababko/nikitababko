@@ -38,7 +38,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/harryheman/React-Total">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harryheman&repo=React-Total&theme=react&hide_border=true&show_icons=false" alt="github-readme-stats">
   </a>
 </p>
