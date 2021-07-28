@@ -57,7 +57,7 @@ const nikitababko = {
     backEnd: ['Node', 'Express', 'GraphQL'],
     dataBases: ['MongoDB'],
     bundlers: ['Webpack', 'Gulp'],
-    test: ['React Testing Library'],
+    tests: ['React Testing Library'],
     devOps: [''],
     misc: ['Socket.IO', 'Immer.js'],
   },
