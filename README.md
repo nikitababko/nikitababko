@@ -46,6 +46,7 @@
 ```js
 const nikitababko = {
   code: ['JavaScript', 'TypeScript'],
+  styles: ['SCSS', 'LESS'],
   askMeAbout: ['web dev'],
   technologies: {
     mobileApp: ['React Native'],
