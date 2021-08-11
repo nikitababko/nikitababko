@@ -33,15 +33,15 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitababko&theme=react" />
 </p>
 
-## 📕 Projects I've contributed to
+<!-- ## 📕 Projects I've contributed to -->
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/harryheman/React-Total">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harryheman&repo=React-Total&theme=react&hide_border=true&show_icons=false" alt="github-readme-stats">
   </a>
-</p>
+</p> -->
 
 ```js
 const nikitababko = {
