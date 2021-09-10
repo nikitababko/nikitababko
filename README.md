@@ -51,20 +51,17 @@ const nikitababko = {
   technologies: {
     mobileApp: ['React Native'],
     frontEnd: {
-      js_ts: ['React', 'Apollo'],
+      js_ts: ['React'],
       css: ['Ant-design', 'Bootstrap'],
     },
-    backEnd: ['Node', 'Express', 'GraphQL'],
+    backEnd: ['Node', 'Express'],
     dataBases: ['MongoDB'],
     bundlers: ['Webpack', 'Gulp'],
     tests: ['React Testing Library'],
     devOps: [''],
     misc: ['Socket.IO', 'Immer.js'],
   },
-  architecture: [
-    'Progressive web applications',
-    'Single page applications',
-  ],
+  architecture: ['Progressive web applications', 'Single page applications'],
 };
 ```
 
