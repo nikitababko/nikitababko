@@ -51,7 +51,7 @@ const nikitababko = {
   technologies: {
     mobileApp: ['React Native'],
     frontEnd: {
-      js_ts: ['React'],
+      js_ts: ['React', 'Redux'],
       css: ['Ant-design', 'Bootstrap'],
     },
     backEnd: ['Node', 'Express'],
@@ -59,9 +59,12 @@ const nikitababko = {
     bundlers: ['Webpack', 'Gulp'],
     tests: ['React Testing Library'],
     devOps: [''],
+    design: ['Figma', 'Photoshop'],
+    management: ['ClickUp'],
+    API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)'],
     misc: ['Socket.IO', 'Immer.js'],
   },
-  architecture: ['Progressive web applications', 'Single page applications'],
+  architecture: ['PWA', 'SPA'],
 };
 ```
 
