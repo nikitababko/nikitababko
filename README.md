@@ -61,7 +61,7 @@ const nikitababko = {
     devOps: [''],
     design: ['Figma', 'Photoshop'],
     management: ['ClickUp'],
-    API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)'],
+    API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
     misc: ['Socket.IO', 'Immer.js', 'TablePlus'],
   },
   architecture: ['PWA', 'SPA'],
