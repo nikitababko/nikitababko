@@ -45,26 +45,26 @@
 
 ```js
 const nikitababko = {
-  code: ['JavaScript', 'TypeScript'],
-  styles: ['SCSS', 'LESS'],
-  askMeAbout: ['web dev'],
-  technologies: {
-    mobileApp: ['React Native'],
-    frontEnd: {
-      js_ts: ['React', 'Redux'],
-      css: ['Ant-design', 'Bootstrap'],
-    },
-    backEnd: ['Node', 'Express'],
-    dataBases: ['MongoDB'],
-    bundlers: ['Webpack', 'Gulp'],
-    tests: ['React Testing Library'],
-    devOps: [''],
-    design: ['Figma', 'Photoshop'],
-    management: ['ClickUp'],
-    API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
-    misc: ['Socket.IO', 'Immer.js', 'TablePlus'],
-  },
-  architecture: ['PWA', 'SPA'],
+   code: ['JavaScript', 'TypeScript'],
+   styles: ['SCSS', 'LESS', 'CSS-in-JS'],
+   askMeAbout: ['web dev'],
+   technologies: {
+      mobileApp: ['React Native'],
+      frontEnd: {
+         js_ts: ['React', 'Redux'],
+         css: ['Ant-design', 'Bootstrap'],
+      },
+      backEnd: ['Node', 'Express'],
+      dataBases: ['MongoDB'],
+      bundlers: ['Webpack', 'Gulp'],
+      tests: ['React Testing Library'],
+      devOps: [''],
+      design: ['Figma', 'Photoshop'],
+      management: ['ClickUp'],
+      API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
+      misc: ['Socket.IO', 'Immer.js', 'TablePlus'],
+   },
+   architecture: ['PWA', 'SPA'],
 };
 ```
 
