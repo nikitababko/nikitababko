@@ -1,6 +1,6 @@
 <div style="margin-bottom: 20px" align="center">
   <h1 style="border-bottom: none; margin-bottom: 8px">
-    Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+    Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" />
   </h1>
 </div>
 
@@ -77,5 +77,3 @@ I am a fast learner and eager to explore new technologies. An advocate of agile 
 I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
 
 I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
-
-![](./profile-3d-contrib/profile-green-animate.svg)
