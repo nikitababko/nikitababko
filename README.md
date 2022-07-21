@@ -60,7 +60,7 @@ const nikitababko = {
     tests: ['React Testing Library'],
     devOps: [''],
     design: ['Figma', 'Photoshop'],
-    management: ['ClickUp'],
+    management: ['ClickUp', 'Jira', 'Notion'],
     API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
     misc: ['Socket.IO', 'Immer.js', 'TablePlus'],
   },
