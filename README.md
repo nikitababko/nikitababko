@@ -58,7 +58,7 @@ const nikitababko = {
     dataBases: ['MongoDB'],
     bundlers: ['Webpack', 'Gulp'],
     tests: ['React Testing Library'],
-    devOps: [''],
+    devOps: ['Ansible', 'GitHub actions'],
     design: ['Figma', 'Photoshop'],
     management: ['ClickUp', 'Jira', 'Notion'],
     API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
