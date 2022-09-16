@@ -45,26 +45,27 @@
 
 ```js
 const nikitababko = {
-  code: ['JavaScript', 'TypeScript'],
-  styles: ['SCSS', 'LESS', 'CSS-in-JS'],
-  askMeAbout: ['web dev'],
-  technologies: {
-    mobileApp: ['React Native'],
-    frontEnd: {
-      js_ts: ['React', 'Redux', 'MobX'],
-      css: ['Ant-design', 'Bootstrap'],
-    },
-    backEnd: ['Node', 'Express'],
-    dataBases: ['MongoDB'],
-    bundlers: ['Webpack', 'Gulp'],
-    tests: ['React Testing Library', 'Mocha', 'Chai'],
-    devOps: ['Ansible', 'GitHub actions'],
-    design: ['Figma', 'Photoshop'],
-    management: ['ClickUp', 'Jira', 'Notion'],
-    API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
-    misc: ['Socket.IO', 'Immer.js', 'TablePlus'],
-  },
-  architecture: ['PWA', 'SPA'],
+   code: ['JavaScript', 'TypeScript'],
+   styles: ['SCSS', 'LESS', 'CSS-in-JS'],
+   askMeAbout: ['web dev'],
+   technologies: {
+      frontEnd: {
+         js_ts: ['React', 'Redux', 'MobX'],
+         css: ['Ant-design', 'Bootstrap'],
+      },
+      mobileApp: ['React Native'],
+      desktopApp: ['Electron'],
+      backEnd: ['Node', 'Express'],
+      dataBases: ['MongoDB'],
+      bundlers: ['Webpack', 'Gulp'],
+      tests: ['React Testing Library', 'Mocha', 'Chai'],
+      devOps: ['Ansible', 'GitHub actions'],
+      design: ['Figma', 'Photoshop'],
+      management: ['ClickUp', 'Jira', 'Notion'],
+      API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
+      misc: ['Socket.IO', 'Immer.js', 'TablePlus'],
+   },
+   architecture: ['PWA', 'SPA'],
 };
 ```
 
