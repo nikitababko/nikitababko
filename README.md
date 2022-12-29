@@ -34,7 +34,6 @@
 </p>
 
 <!-- ## 📕 Projects I've contributed to -->
-
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <!-- <p align="left">
@@ -43,29 +42,35 @@
   </a>
 </p> -->
 
+<!-- github-readme-stats top languages -->
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitababko&theme=jolly&langs_count=6&layout=compact" alt="Top Langs" style="max-width: 100%;">
+</a> -->
+
 ```js
 const nikitababko = {
-  code: ['JavaScript', 'TypeScript'],
-  styles: ['SCSS', 'CSS-in-JS'],
-  askMeAbout: ['web dev'],
-  technologies: {
-    frontEnd: {
-      js_ts: ['React', 'Redux', 'MobX'],
-      css: ['Ant-design', 'Bootstrap'],
-    },
-    mobileApp: ['React Native'],
-    desktopApp: ['Electron'],
-    backEnd: ['Node', 'Express'],
-    dataBases: ['MongoDB'],
-    bundlers: ['Webpack', 'Gulp', 'Rollup'],
-    tests: ['React Testing Library', 'Mocha', 'Chai'],
-    devOps: ['Ansible', 'GitHub actions'],
-    design: ['Figma'],
-    management: ['ClickUp', 'Jira', 'Notion', 'Linear'],
-    API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
-    misc: ['Socket.IO', 'Immer.js', 'TablePlus'],
-  },
-  architecture: ['PWA', 'SPA'],
+   code: ['JavaScript', 'TypeScript'],
+   styles: ['SCSS', 'CSS-in-JS'],
+   askMeAbout: ['web dev'],
+   technologies: {
+      frontEnd: {
+         js_ts: ['React', 'Redux', 'MobX'],
+         css: ['Ant-design', 'Bootstrap'],
+      },
+      mobileApp: ['React Native'],
+      desktopApp: ['Electron'],
+      backEnd: ['Node', 'Express'],
+      dataBases: ['MongoDB'],
+      bundlers: ['Webpack', 'Gulp', 'Rollup'],
+      tests: ['React Testing Library', 'Mocha', 'Chai'],
+      devOps: ['Ansible', 'GitHub actions'],
+      design: ['Figma'],
+      management: ['ClickUp', 'Jira', 'Notion', 'Linear'],
+      API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
+      misc: ['Socket.IO', 'Immer.js', 'TablePlus'],
+   },
+   architecture: ['PWA', 'SPA'],
 };
 ```
 
