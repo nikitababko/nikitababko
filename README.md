@@ -15,9 +15,9 @@
   <a href="https://t.me/nikitababko">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white">
   </a> 
-  <a href="https://www.linkedin.com/in/nikitababko">
+  <!-- <a href="https://www.linkedin.com/in/nikitababko">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+  </a>  -->
   <a href="https://dev.to/nikitababko">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a> 
@@ -50,27 +50,27 @@
 
 ```js
 const nikitababko = {
-   code: ['JavaScript', 'TypeScript'],
-   styles: ['SCSS', 'CSS-in-JS'],
-   askMeAbout: ['web dev'],
-   technologies: {
-      frontEnd: {
-         js_ts: ['React', 'Redux', 'MobX'],
-         css: ['Ant-design', 'Bootstrap'],
-      },
-      mobileApp: ['React Native'],
-      desktopApp: ['Electron'],
-      backEnd: ['Node', 'Express'],
-      dataBases: ['MongoDB'],
-      bundlers: ['Webpack', 'Gulp', 'Rollup'],
-      tests: ['React Testing Library', 'Mocha', 'Chai'],
-      devOps: ['Ansible', 'GitHub actions'],
-      design: ['Figma'],
-      management: ['ClickUp', 'Jira', 'Notion', 'Linear'],
-      API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
-      misc: ['Socket.IO', 'Immer.js', 'TablePlus'],
-   },
-   architecture: ['PWA', 'SPA'],
+  code: ['JavaScript', 'TypeScript'],
+  styles: ['SCSS', 'CSS-in-JS'],
+  askMeAbout: ['web dev'],
+  technologies: {
+    frontEnd: {
+      js_ts: ['React', 'Redux', 'MobX'],
+      css: ['Ant-design', 'Bootstrap'],
+    },
+    mobileApp: ['React Native'],
+    desktopApp: ['Electron'],
+    backEnd: ['Node', 'Express'],
+    dataBases: ['MongoDB'],
+    bundlers: ['Webpack', 'Gulp', 'Rollup'],
+    tests: ['React Testing Library', 'Mocha', 'Chai'],
+    devOps: ['Ansible', 'GitHub actions'],
+    design: ['Figma'],
+    management: ['ClickUp', 'Jira', 'Notion', 'Linear'],
+    API: ['Postman', 'Google(Auth, mailer)', 'Facebook(Auth)', 'PayPal(Pay)'],
+    misc: ['Socket.IO', 'Immer.js', 'TablePlus'],
+  },
+  architecture: ['PWA', 'SPA'],
 };
 ```
 
