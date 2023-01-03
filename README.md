@@ -52,7 +52,7 @@
 const nikitababko = {
   code: ['JavaScript', 'TypeScript'],
   styles: ['SCSS', 'CSS-in-JS'],
-  askMeAbout: ['web dev'],
+  askMeAbout: ['web dev', 'app dev'],
   technologies: {
     frontEnd: {
       js_ts: ['React', 'Redux', 'MobX'],
