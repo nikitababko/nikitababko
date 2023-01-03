@@ -5,7 +5,7 @@
 </div>
 
 <div style="margin-bottom: 35px" align="center">
-  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=nikitababko&repo=github-visitors-badge&countColor=DodgerBlue" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=nikitababko&repo=github-visitors-badge&countColor=DodgerBlue" />
 </div>
 
 <p align="center">
