@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="https://nikitababko.github.io/">
+  <a href="https://nikitababko.com">
     <img src="https://img.shields.io/badge/Website-46a2f1?style=for-the-badge&logo=Google-Chrome&logoColor=white">
   </a> 
   <a href="https://t.me/nikitababko">
