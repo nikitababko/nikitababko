@@ -27,6 +27,9 @@
   <a href="https://twitter.com/nikitababko">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
+  <a href="https://leetcode.com/u/nikitababko">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnikitababko&logo=leetcode&logoColor=yellow">
+  </a>
 </p>
 
 <p align="center"> 
