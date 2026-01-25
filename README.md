@@ -77,7 +77,8 @@ const nikitababko = {
 };
 ```
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+[//]: # ([![Anurag's GitHub stats-Dark]&#40;https://github-readme-stats.vercel.app/api?username=nikitababko&show_icons=true&theme=dark#gh-dark-mode-only&#41;]&#40;https://github.com/nikitababko/github-readme-stats#gh-dark-mode-only&#41;)
+[//]: # (  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />)
 
 I specialize in front-end development. I have also full-stack development experience.
 
@@ -87,4 +88,6 @@ I'm a well organized person very passionate and dedicated to my work. I'm used t
 
 I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitababko&layout=compact)
+
+[//]: # (![]&#40;./profile-3d-contrib/profile-green-animate.svg&#41;)
