@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Nikita Babko 👋</h1>
-  <h3>Frontend Developer with Full-Stack Experience</h3>
+  <h3>Software Engineer</h3>
 </div>
 
 <p align="center">
@@ -28,11 +28,11 @@
 
 ## About Me
 
-I specialize in frontend development and also have full-stack experience.
+I'm a software engineer building web products end to end — from user-facing applications to backend services and production infrastructure.
 
-I build modern web applications with React, TypeScript, Next.js, and Node.js. I care about clean code, maintainable architecture, thoughtful UI, and product quality.
+My core stack is TypeScript and Go. I build React and Next.js applications, Node.js, NestJS, and Go services, work with PostgreSQL, MySQL, MongoDB, and Redis, and develop real-time features with WebSockets.
 
-I’m a fast learner, a team player, and I enjoy solving complex problems. I’m always open to learning new technologies and working on meaningful products.
+I focus on maintainable architecture, performance, reliability, and product quality. I also work with Nginx, Ansible, and CI/CD pipelines to deliver applications to production.
 
 ---
 
@@ -40,22 +40,31 @@ I’m a fast learner, a team player, and I enjoy solving complex problems. I’m
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
-**Frontend:** React, Next.js, TypeScript  
-**State & Data:** Redux Toolkit, RTK Query, TanStack Query / React Query, Zustand, Jotai, MobX  
-**Styling & UI:** SCSS, CSS Modules, CSS-in-JS, Ant Design, MUI, Chakra UI  
-**Backend:** Node.js, Express, NestJS, MongoDB  
-**Mobile/Desktop:** React Native, Electron  
-**Testing:** Vitest, React Testing Library, Mocha, Chai  
-**Build & CI/CD:** Vite, Webpack, Rollup, GitHub Actions, GitLab CI
+- **Languages:** TypeScript, Go, SQL
+- **Frontend:** React, Next.js
+- **Frontend State & Data Fetching:** Redux Toolkit, RTK Query, TanStack Query, Zustand, Jotai, MobX
+- **Styling & UI:** SCSS, CSS Modules, CSS-in-JS, Ant Design, MUI, Chakra UI
+- **Backend & APIs:** Go, Node.js, Express, NestJS, WebSockets
+- **Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis
+- **Infrastructure & Delivery:** Nginx, Ansible, GitHub Actions, GitLab CI
+- **Build Tools:** Vite, Webpack, Rollup
+- **Mobile/Desktop:** React Native, Electron
+- **Testing:** Vitest, React Testing Library, Mocha, Chai
 
 ---
 
