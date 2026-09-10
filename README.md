@@ -34,6 +34,8 @@ My core stack is TypeScript and Go. I build React and Next.js applications, Node
 
 I focus on maintainable architecture, performance, reliability, and product quality. I also work with Nginx, Ansible, and CI/CD pipelines to deliver applications to production.
 
+Curious by nature, I'm always learning and experimenting with new technologies.
+
 ---
 
 ## Tech Stack
